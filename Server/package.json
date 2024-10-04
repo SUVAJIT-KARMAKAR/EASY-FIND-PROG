@@ -1,0 +1,20 @@
+{
+  "name": "easy-find-prog",
+  "version": "1.0.0",
+  "description": "A simple documentation page for all of your programming code-snippets and exercises",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "SUBHAJIT KARMAKAR & SUVAJIT KARMAKAR",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3",
+    "nodemon": "^3.1.7"
+  }
+}
